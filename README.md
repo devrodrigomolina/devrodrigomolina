@@ -5,13 +5,20 @@
 - 👋 Olá! Eu sou o Rodrigo Molina e tenho 29 anos de idade
 - 🏙️ Eu moro em Maringá, Paraná.
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNIFCV..
-- 📖 Estou estudando Vue.js..
-- 💻 Tenho conhecimento intermediário em HTML, CSS, SASS, JAVASCRIPT e VUE.JS..
+- 📖 Desenvolvo projetos em Vue.js..
+- 💻 As tecnologias que utilizo são: HTML, CSS, SASS, JAVASCRIPT e VUE.JS..
 - 😊 Sinta-se à vontade para fazer críticas construtivas..
 - 🎈 Estou sempre disposto a aprender
 - 🤩 Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento. Albert Einstein
 
-
+## 🖥️ Tech Stack 🖥️
+  
+  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  
 ##
 
 <div align="center">
@@ -20,13 +27,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOXXX2K&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## 🖥️ Linguagens 🖥️
-  
-  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+
   
 ## Contato / Redes Sociais
 
