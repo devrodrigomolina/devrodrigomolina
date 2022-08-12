@@ -6,7 +6,7 @@
 - 🏙️ Eu moro em Maringá, Paraná.
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNIFCV..
 - 📖 Desenvolvo projetos em Vue.js..
-- 💻 As tecnologias que utilizo são: HTML, CSS, SASS, JAVASCRIPT e VUE.JS..
+- 💻 As tecnologias que utilizo são: HTML, CSS, SASS, JAVASCRIPT, VUE.JS e NUXT.JS..
 - 😊 Sinta-se à vontade para fazer críticas construtivas..
 - 🎈 Estou sempre disposto a aprender
 - 🤩 Lembre-se que as pessoas podem tirar tudo de você, menos o seu conhecimento. Albert Einstein
