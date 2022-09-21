@@ -5,7 +5,7 @@
 - 👋 Olá! Eu sou o Rodrigo Molina e tenho 30 anos de idade
 - 🏙️ Eu moro em Maringá, Paraná.
 - 📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNIFCV..
-- 📖 Desenvolvo projetos em Vue.js..
+- 📖 Desenvolvo projetos em React.js e Vue.js..
 - 💻 As tecnologias que utilizo são: HTML, CSS, SASS, JAVASCRIPT, REACT.JS, STYLED COMPONENTS, VUE.JS e NUXT.JS..
 - 😊 Sinta-se à vontade para fazer críticas construtivas..
 - 🎈 Estou sempre disposto a aprender
