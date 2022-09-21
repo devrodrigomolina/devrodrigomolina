@@ -23,9 +23,9 @@
 ## 📈 Meus Stats 📉
 
 <div align="center">
-  <a href="https://github.com/FOXXX2K">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FOXXX2K&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FOXXX2K&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/devrodrigomolina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrodrigomolina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrodrigomolina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -34,7 +34,7 @@
 
 <a href="https://wa.me/+5544998070146" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href="https://www.facebook.com/RodrigoSRNm" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-<a href="https://www.instagram.com/rodrigosrnm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/devrodrigomolina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:dev.rodrigomolina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/devrodrigomolina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
