@@ -2,7 +2,7 @@
 
 ## 🎉 Sobre mim 🎉
 
-- 👋 Olá! Eu sou o Rodrigo Molina e tenho 31 anos de idade
+- 👋 Olá! Eu sou o Rodrigo Molina e tenho 32 anos de idade
 - 🏙️ Eu moro em Maringá, Paraná.
 - 📚 Formado em Análise e Desenvolvimento de Sistemas pela UNIFCV..
 - 📖 Desenvolvo projetos em React.js e Vue.js..
