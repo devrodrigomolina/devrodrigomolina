@@ -4,7 +4,7 @@
 
 - 👋 Olá! Eu sou o Rodrigo Molina e tenho 32 anos de idade
 - 🏙️ Eu moro em Maringá, Paraná.
-- 🔭 Atualmente trabalho na Escriba Informática, como Desenvolvedor Frontend Pleno.
+- 🔭 Atualmente trabalho na Qintess, alocado na Secretaria da Saude de Pernambuco, como Desenvolvedor Fullstack Pleno.
 - 📚 Sou formado em Análise e Desenvolvimento de Sistemas pela UNIFCV..
 - 💻 As tecnologias que utilizo são: HTML, CSS, SASS, JAVA, JAVASCRIPT, NODE, REACT.JS, STYLED COMPONENTS, LUA, VUE.JS e NUXT.JS..
 - 😊 Sinta-se à vontade para fazer críticas construtivas..
